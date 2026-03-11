@@ -1,0 +1,14 @@
+site_name: Cancer Prediction
+site_name: Cancer Prediction
+site_url: https://github.com/Maya_Lopez/cancer-prediction-ml2107
+repo_url: https://github.com/Maya_Lopez/cancer-prediction-ml2107
+nav:
+  - Home: index.md
+  - cancer-prediction:
+    - cancer model: cancer-prediction-ml2107/cancer_model.md
+    - streamlit app: cancer-prediction-ml2107/streamlit_app.md
+theme: readthedocs
+plugins:
+  - mkdocstrings
+watch:
+  - .  # reload docs for file changes

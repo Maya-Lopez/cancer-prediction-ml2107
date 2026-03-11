@@ -140,6 +140,12 @@ compile_commands.json
 Makefile
 Testing/
 
+## UI stuff
+.vscode
+
+## API stuff
+.env
+
 # Poetry
 #   According to https://python-poetry.org/docs/glossary/#lock-file
 #   it is recommended to include poetry.lock in version control.
