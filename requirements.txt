@@ -4,4 +4,4 @@ matplotlib
 numpy
 ipykernel
 click
-streamlet
+streamlit
